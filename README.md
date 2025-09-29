@@ -3,7 +3,7 @@
 I'm an engineer exploring how to build and break modern AI systems. This profile is my digital forge—a place for my experiments, open-source tools, and works-in-progress.
 
 
-I'll be documenting my journey on my blog, **[mountainking.dev](https://mountainking.dev)**, which is currently under construction. Stay tuned.
+I'll be documenting my journey on my blog, **[mntnking.dev](https://mntnking.dev)**, which is currently under construction. Stay tuned.
 
 
 ### The Anvil
@@ -13,5 +13,5 @@ I'll be documenting my journey on my blog, **[mountainking.dev](https://mountain
 
 ### 🔗 Find Me
 
-- **Blog:** [mountainking.dev](https://mountainking.dev) (Coming Soon)
+- **Blog:** [mntnking.dev](https://mntnking.dev) (Coming Soon)
 - **LinkedIn:** [ayelmagambetov](https://www.linkedin.com/in/ayelmagambetov/)
